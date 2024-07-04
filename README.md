@@ -33,6 +33,4 @@ Soft Skills:
 - Attention to detail
 - Planning and organizing skills
 
-Languages: JavaScript | TypeScript | Swift | C#
-GitHub: https://github.com/alexandreacm
 Contact: alexandreacm.marques@gmail.com
