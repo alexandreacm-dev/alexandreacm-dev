@@ -1,6 +1,6 @@
 ### Hi!
 
-### I am Alexandre Marques 🖐️
+###👨 I am Alexandre Marques 🖐️
 
 ### 🚀 React Native Engineer | iOS Developer with 6 Years of Experience in Mobile Development🚀
 
@@ -26,6 +26,8 @@ Who is always learning and I love technology to solve real problems in the world
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div><br/>
 
 I have been working with technology for 10 years.
@@ -45,6 +47,8 @@ Contact: alexandreacm.marques@gmail.com
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 ## 🛠️ Technologies e Tools I am working:
 
