@@ -38,6 +38,7 @@ Who is always learning and I love technology to solve real problems in the world
 </div><br/>
 
 🚀 React Native Engineer with 8 Years of Experience in Mobile Development 🚀 
+
 I'm software engineer who is always learning and I love technology to solve real problems in the world, create solutions to impact lives.
 
 I have been working with technology for 10 years.
