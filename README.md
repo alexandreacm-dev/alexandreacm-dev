@@ -37,17 +37,21 @@ Who is always learning and I love technology to solve real problems in the world
   <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
+🚀 React Native Engineer with 8 Years of Experience in Mobile Development 🚀 
+I'm software engineer who is always learning and I love technology to solve real problems in the world, create solutions to impact lives.
+
 I have been working with technology for 10 years.
-I have been working with React Native for 6 years.
+I have been working with React Native for 8 years.
 
 Soft Skills:
 
-- Problem solving
-- Team collaboration
-- Effective communication
-- Attention to detail
-- Planning and organizing skills
+* Problem solving
+* Team collaboration 
+* Effective communication
+* Attention to detail
+* Planning and organizing skills
 
+Languages: JavaScript | TypeScript | Swift | SwiftUI | UIKit
 Contact: alexandreacm.marques@gmail.com
 
 😃 Let's get connected:
